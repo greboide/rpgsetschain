@@ -1,130 +1,58 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "name": "Sven Set",
+    "picture": "images/Armour_of_The_Iron_Drakken.png",
+    "age": 2,
+    "breed": "Armour of The Iron Drakken",
+    "location": "Freeburn, Idaho"
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
+    "name": "Juggernaut Set",
+    "picture": "images/Arms_of_the_Gwimyeon_Warrior_Set.png",
+    "age": 2,
+    "breed": "Arms of the Gwimyeon Warrior Set",
+    "location": "Freeburn, Idaho"
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "Juggernaut Blade",
+    "picture": "images/Blade_of_the_Wandering_Demon.png",
     "age": 2,
-    "breed": "French Bulldog",
+    "breed": "Blade of the Wandering Demon",
     "location": "Freeburn, Idaho"
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
+    "name": "Sven Blade",
+    "picture": "images/Furious_Rune.png",
     "age": 2,
-    "breed": "Boxer",
+    "breed": "Furious Rune",
     "location": "Camas, Pennsylvania"
   },
   {
     "id": 4,
-    "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "Juggernaut blade",
+    "picture": "images/Relic_Blade_of_the_Kuur-Ishiminari.png",
     "age": 2,
-    "breed": "French Bulldog",
+    "breed": "Relic Blade of the Kuur-Ishiminari",
     "location": "Gerber, South Dakota"
   },
   {
     "id": 5,
-    "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "Sven Set",
+    "picture": "images/The_Freelancer's_Finery.png",
     "age": 3,
-    "breed": "French Bulldog",
+    "breed": "The Freelancer's Finery",
     "location": "Innsbrook, Illinois"
   },
   {
     "id": 6,
-    "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
+    "name": "Juggernaut Set",
+    "picture": "images/Wandering_Demon_of_the_Plains_Set.png",
     "age": 3,
-    "breed": "Golden Retriever",
+    "breed": "Wandering Demon of the Plains Set",
     "location": "Soudan, Louisiana"
-  },
-  {
-    "id": 7,
-    "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
-  },
-  {
-    "id": 8,
-    "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
-  },
-  {
-    "id": 9,
-    "name": "Fran",
-    "picture": "images/boxer.jpeg",
-    "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
-  },
-  {
-    "id": 10,
-    "name": "Leonor",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
-  },
-  {
-    "id": 11,
-    "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
-  },
-  {
-    "id": 12,
-    "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
-  },
-  {
-    "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
-  },
-  {
-    "id": 14,
-    "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
-  },
-  {
-    "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
   }
 ]
